@@ -3,14 +3,14 @@ Projeto realizado na semana da Maratona Explorer da Rocketseat utilizando HTML e
 
 <hr>
 
-Tecnologias
+# Tecnologias
 
- -HTML
+ -HTML <br>
  -CSS
  
  <hr>
  
-Funcionalidade
+# Funcionalidade
 
  Site para Apresentação de redes socias de pessoas físicas e jurídicas
 
